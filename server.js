@@ -37,7 +37,7 @@ var htmlTemplate=`
         <link href="/ui/style.css" rel="stylesheet" />
     </head>
     <body>
-        <div>
+        <div class="container>
             <a href="/">Home</a>
         </div>
         <hr/>
